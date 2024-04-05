@@ -1,0 +1,60 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Leanne Graham",
+        "username": "Bret",
+        "email": "Sincere@april.biz"
+      },
+      {
+        "id": "2",
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv"
+      },
+      {
+        "id": "3",
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "email": "Nathan@yesenia.net"
+      },
+      {
+        "id": "4",
+        "name": "Patricia Lebsack",
+        "username": "Karianne",
+        "email": "Julianne.OConner@kory.org"
+      }
+    ],
+    "products": [
+      {
+        "id": "3",
+        "firstName": "Terrill",
+        "lastName": "Hills",
+        "age": "51"
+      },
+      {
+        "id": "9ae1",
+        "firstName": "rohit",
+        "lastName": "chaudhary",
+        "age": "20"
+      },
+      {
+        "id": "7e1b",
+        "firstName": "hjk",
+        "lastName": "dddop",
+        "age": "12"
+      },
+      {
+        "id": "9e49",
+        "firstName": "w",
+        "lastName": "q",
+        "age": "1"
+      },
+      {
+        "id": "7849",
+        "firstName": "we",
+        "lastName": "feq",
+        "age": "12"
+      }
+    ]
+  }
